@@ -254,6 +254,7 @@ body{
 .blog-post > ul{
     padding-left: 6vw;
     margin-top: 1.5vh;
+    margin-bottom: 2vh;
     text-decoration: none;
     list-style:inside;
     
